@@ -150,4 +150,6 @@ Mauvaise nouvelle une fois enfilé : il ressort d'un centimètre de moins qu'ava
 ![Safran reponcé](/assets/images/safran-reponce.jpg)
 ![Safran qui sèche](/assets/images/safran-sechage-2.jpg)
 
-Ce n'est pas encore fini de sécher, j'espère que ça passera 🤞
+Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 Ce n'est pas encore parfait mais ça le fait.
+
+Des voisins de ponton m'ont signalé qu'il manque une bague en teflon que je devrais placer entre le safran et le tube de jaumière pour absorber les frottements. Ça sera pour le prochain carénage.
