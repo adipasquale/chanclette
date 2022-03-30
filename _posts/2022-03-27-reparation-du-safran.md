@@ -4,6 +4,18 @@ title: Réparation du safran
 date: 2022-03-27 11:59 +0200
 ---
 
+<style>
+  video {
+    max-width: 100%;
+    max-height: 80vh;
+    margin: auto;
+    display: block;
+  }
+  img {
+    max-height: 80vh;
+  }
+</style>
+
 Il y avait un décalage de plus en plus important entre la barre et l'axe du safran.
 
 ## Sortie du safran
@@ -22,7 +34,7 @@ Pour préparer la sortie du safran, on a :
 
 ![](/assets/images/safran-haut.jpg)
 
-<video width="500px" autoplay loop>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-depart-vieux-port.mov">
 </video>
 
@@ -48,17 +60,17 @@ Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'
 - soudé tout ça !
 
 
-<video width="500px" autoplay loop>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-nettoyage-tubes.mov">
 </video>
 
 ![](/assets/images/safran-gueules-de-loups.jpg)
 
-<video width="500px" autoplay loop>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-soudure-1.mov">
 </video>
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-soudure-2.mov">
 </video>
 
@@ -78,13 +90,13 @@ Un ami expert du bois a :
 
 ![Plan des 5 planches en sandwich et différentes épaisseurs](/assets/images/safran-plan-planches.jpg)
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-defonce-1.mov">
 </video>
 
 ![Défonce des planches](/assets/images/safran-defonce.jpg)
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-defonce-2.mov">
 </video>
 
@@ -94,7 +106,7 @@ On a collé les planches avec de la résine epoxy. La mèche se glisse au milieu
 
 ![Empilement du sandwich de planches](/assets/images/safran-sandwich.jpg)
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-collage.mov">
 </video>
 
@@ -106,11 +118,11 @@ De loin la partie la plus agréable : le rabotage et ponçage pour reproduire la
 
 ![Safran sec](/assets/images/safran-fin-sechage.jpg)
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-rabotage-1.mov">
 </video>
 
-<video width="800px" autoplay loop controls>
+<video muted autoplay loop controls>
   <source src="/assets/images/safran-rabotage-2.mov">
 </video>
 
