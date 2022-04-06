@@ -52,7 +52,7 @@ Belle surprise lors de l'ouverture : 20L d'eau noire comme de l'huile s'échappe
 
 ## Soudure de nouvelles tiges
 
-Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'était une très mauvaise idée. On a racheté un tube inox ø 27mm chez Prolians, vendu par 6 mètres uniquement, pour 100 euros. Un ami soudeur a :
+Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'était une très mauvaise idée. On a racheté un tube inox ø 27mm chez Prolians, vendu par 6 mètres uniquement, pour 100 euros. Niels a ensuite :
 
 - bien nettoyé les anciennes fixations sur la mèche à la meuleuse
 - coupé le tube en trois sections
@@ -81,12 +81,8 @@ Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'
 
 ## Découpe et défonce des planches
 
-On a acheté un grand panneau de contreplaqué Okoumé nautique coupé en 5 chez Leroy Merlin pour 200 euros. On a reproduit la forme générale du safran sur ces 5 planches.
-
-Un ami expert du bois a :
-
-- découpé entièrement l'empreinte de la mèche et des tiges sur la planche centrale
-- dessiné les empreintes à différentes profondeurs pour les 4 autres planches avec une défonceuse, une scie plongeante et une scie sauteuse. très efficace 💪
+On a acheté un grand panneau de contreplaqué Okoumé nautique coupé en 5 chez Leroy Merlin pour 200 euros. On a d'abord reproduit la forme générale du safran sur ces 5 planches. Puis Simon a découpé entièrement l'empreinte de la mèche et des tiges sur la planche centrale.
+Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres planches avec une défonceuse, une scie plongeante et une scie sauteuse.
 
 ![Plan des 5 planches en sandwich et différentes épaisseurs](/assets/images/safran-plan-planches.jpg)
 
