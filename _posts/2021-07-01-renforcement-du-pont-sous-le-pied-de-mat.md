@@ -65,7 +65,7 @@ Avant de restratifier on a mis quelques touches de mastic polyester par endroits
 On a préparé plusieurs morceaux de tissu de fibre de verre à empiler, et on a lancé la stratification. C'était en plein été, ça prenait très vite donc on a réalisé plusieurs fois le mélange de résine et de durcisseur plutôt qu'en une fois. On a coulé la pièce de bois dans la résine en respectant son emplacement initial.
 
 ![](/assets/images/mat/stratification.jpg)
-![](/assets/images/mat/fin-stratification.jpeg)
+![](/assets/images/mat/fin-stratification.jpg)
 
 Je n'ai pas précisé qu'avant de mettre la pièce en bois, nous avons décidé d'y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l'inverse par des tire-fonds qui venaient s'enfoncer dans la pièce de bois. ça ne nous a pas paru très solide de reproduire ça donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n'ai malheureusement pas de photo du pied de mât.
 
@@ -90,7 +90,7 @@ J'ai profité d'avoir tombé le mât pour changer tout le dormant qui était vie
 
 Pour le remâtage, j'ai encore mobilisé de nombreux amis (merci !). On a fait l'opération en sens inverse et tout s'est bien passé, même si c'était là encore très stressant ! La fixation de l'étai était particulièrement dure mais on a fini par y arriver.
 
-![](/assets/images/mat/rematage.jpeg)
+![](/assets/images/mat/rematage.jpg)
 
 J'étais soulagé une fois ce gros chantier terminé 🥳 Un voilier sans mât c'est triste à voir.
 
