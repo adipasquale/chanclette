@@ -118,7 +118,7 @@ Le safran a été rapatrié à la maison pour profiter de la chaleur. J'ai cré�
 
 Ensuite j'ai fait deux couches de primaire blanche puis deux couches d'antifouling bleu. La différence de couleur permettra de repérer les accrocs.
 
-![Safran suspendu structure](/assets/images/safran/safran-suspendu-optimized.jpg)
+![Safran suspendu structure](/assets/images/safran/safran-structure-optimized.jpg)
 
 ![Safran couche de peinture primaire](/assets/images/safran/safran-primaire-optimized.jpg)
 

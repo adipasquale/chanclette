@@ -42,8 +42,8 @@ footer .external-links .sidebar-bottom .icon-border {
 .post-content video {
   max-width: 100%;
   max-height: 80vh;
-  margin: auto;
   display: block;
+  margin: 0.5rem auto;
 }
 
 .post-content img {
