@@ -22,7 +22,7 @@ Il y avait un décalage de plus en plus important entre la barre et l'axe du saf
 
 On a commencé par sortir le safran, le bateau étant à flot.
 
-![Sortie Safran](/assets/images/sortie-safran.jpg)
+![Sortie Safran](/assets/images/safran/sortie-safran.jpg)
 
 Pour préparer la sortie du safran, on a :
 
@@ -32,10 +32,10 @@ Pour préparer la sortie du safran, on a :
 - retenu le safran cet anneau maintenant libre
 - coupé le dyneema et fini de passer la plaque ✨
 
-![](/assets/images/safran-haut.jpg)
+![](/assets/images/safran/safran-haut.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-depart-vieux-port.mov">
+  <source src="/assets/images/safran/safran-depart-vieux-port.mov">
 </video>
 
 ## Ouverture du safran
@@ -44,11 +44,11 @@ On a ouvert l'ancien safran à la meuleuse en faisant quelques traits de découp
 
 Belle surprise lors de l'ouverture : 20L d'eau noire comme de l'huile s'échappent. on découvre que les tiges du peigne horizontal sont complètement mangées par la rouille et ne tiennent plus rien depuis un moment 🙀 On a entamé ce chantier juste à temps.
 
-![](/assets/images/safran-ancien.jpg)
+![](/assets/images/safran/safran-ancien.jpg)
 
-![](/assets/images/safran-ouvert-1.jpg)
+![](/assets/images/safran/safran-ouvert-1.jpg)
 
-![](/assets/images/safran-ouvert-2.jpg)
+![](/assets/images/safran/safran-ouvert-2.jpg)
 
 ## Soudure de nouvelles tiges
 
@@ -61,20 +61,20 @@ Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'
 
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-nettoyage-tubes.mov">
+  <source src="/assets/images/safran/safran-nettoyage-tubes.mov">
 </video>
 
-![](/assets/images/safran-gueules-de-loups.jpg)
+![](/assets/images/safran/safran-gueules-de-loups.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-soudure-1.mov">
+  <source src="/assets/images/safran/safran-soudure-1.mov">
 </video>
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-soudure-2.mov">
+  <source src="/assets/images/safran/safran-soudure-2.mov">
 </video>
 
-![](/assets/images/safran-tubes-soudes.jpg)
+![](/assets/images/safran/safran-tubes-soudes.jpg)
 
 
 (La mèche ne sera évidemment pas positionné à ce niveau des planches du safran qu'on voit en dessous :)
@@ -84,45 +84,45 @@ Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c'
 On a acheté un grand panneau de contreplaqué Okoumé nautique coupé en 5 chez Leroy Merlin pour 200 euros. On a d'abord reproduit la forme générale du safran sur ces 5 planches. Puis Simon a découpé entièrement l'empreinte de la mèche et des tiges sur la planche centrale.
 Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres planches avec une défonceuse, une scie plongeante et une scie sauteuse.
 
-![Plan des 5 planches en sandwich et différentes épaisseurs](/assets/images/safran-plan-planches.jpg)
+![Plan des 5 planches en sandwich et différentes épaisseurs](/assets/images/safran/safran-plan-planches.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-defonce-1.mov">
+  <source src="/assets/images/safran/safran-defonce-1.mov">
 </video>
 
-![Défonce des planches](/assets/images/safran-defonce.jpg)
+![Défonce des planches](/assets/images/safran/safran-defonce.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-defonce-2.mov">
+  <source src="/assets/images/safran/safran-defonce-2.mov">
 </video>
 
 ## Collage des plaques
 
 On a collé les planches avec de la résine epoxy. La mèche se glisse au milieu après la deuxième planche. On a coulé de la colle expansive PU D4 tout autour de la mèche et des tiges pour contraindre leur déplacement (pas forcément adapté, mais on n'avait pas mieux à disposition). On a bien serré tout ça avec des IPN et des serre-joints de compétition puis on a fait sécher à la verticale pour que la colle se répande de manière homogène - au moins 24h et à l'intérieur.
 
-![Empilement du sandwich de planches](/assets/images/safran-sandwich.jpg)
+![Empilement du sandwich de planches](/assets/images/safran/safran-sandwich.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-collage.mov">
+  <source src="/assets/images/safran/safran-collage.mov">
 </video>
 
-![Séchage du safran](/assets/images/safran-sechage.jpg)
+![Séchage du safran](/assets/images/safran/safran-sechage.jpg)
 
 ## Rabotage et shaping
 
 De loin la partie la plus agréable : le rabotage et ponçage pour reproduire la forme initiale. Simon a fait ça d'une main de maître ! Les épaisseurs du contreplaqué permettent de voir les épaisseurs et de faire des courbes bien propres.
 
-![Safran sec](/assets/images/safran-fin-sechage.jpg)
+![Safran sec](/assets/images/safran/safran-fin-sechage.jpg)
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-rabotage-1.mov">
+  <source src="/assets/images/safran/safran-rabotage-1.mov">
 </video>
 
 <video muted autoplay loop controls>
-  <source src="/assets/images/safran-rabotage-2.mov">
+  <source src="/assets/images/safran/safran-rabotage-2.mov">
 </video>
 
-![Safran re-shapé](/assets/images/safran-bois-fini.jpg)
+![Safran re-shapé](/assets/images/safran/safran-bois-fini.jpg)
 
 ## Stratification & peinture
 
@@ -130,11 +130,11 @@ Le safran a été rapatrié à la maison pour profiter de la chaleur. J'ai cré�
 
 Ensuite j'ai fait deux couches de primaire blanche puis deux couches d'antifouling bleu. La différence de couleur permettra de repérer les accrocs.
 
-![Safran suspendu structure](/assets/images/safran-suspendu.jpg)
+![Safran suspendu structure](/assets/images/safran/safran-suspendu.jpg)
 
-![Safran couche de peinture primaire](/assets/images/safran-primaire.jpg)
+![Safran couche de peinture primaire](/assets/images/safran/safran-primaire.jpg)
 
-![Safran couche de peinture antifouling](/assets/images/safran-antifouling.jpg)
+![Safran couche de peinture antifouling](/assets/images/safran/safran-antifouling.jpg)
 
 ## Remise en place
 
@@ -142,9 +142,9 @@ La grosse surprise lors de la repose a été que le safran ne coule plus mais fl
 
 Mauvaise nouvelle une fois enfilé : il ressort d'un centimètre de moins qu'avant et c'est problématique pour reposer la plaque et le fixer. Il a donc fallu le ressortir, poncer le haut du safran autour de la mèche, re-stratifier et repeindre. C'était peu pratique puisque c'est la partie la plus sensible en termes d'étanchéité, et que le safran était maintenant à l'air libre et pas si chaud pour sécher malgré la fin d'hiver marseillais.
 
-![Safran reposé](/assets/images/safran-remis.jpg)
-![Safran reponcé](/assets/images/safran-reponce.jpg)
-![Safran qui sèche](/assets/images/safran-sechage-2.jpg)
+![Safran reposé](/assets/images/safran/safran-remis.jpg)
+![Safran reponcé](/assets/images/safran/safran-reponce.jpg)
+![Safran qui sèche](/assets/images/safran/safran-sechage-2.jpg)
 
 Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 Ce n'est pas encore parfait mais ça le fait.
 

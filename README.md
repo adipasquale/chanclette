@@ -2,6 +2,13 @@
 
 ## Dev
 
-`make dev`
+Install:
 
-Nouvel article : `bundle exec jekyll post "Titre"`
+- `bundle install`
+- `brew install imagemagick imageoptim`
+- install https://imageoptim.com/mac
+
+Then:
+
+- `make dev` : run dev server
+- `bundle exec jekyll post "Titre"` : create new post

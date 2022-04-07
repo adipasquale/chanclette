@@ -36,7 +36,7 @@ social:
 # theme_mode:   # [light|dark]
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/images/a-terre.jpg
+avatar: /assets/images/communs/a-terre.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
