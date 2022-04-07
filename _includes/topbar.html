@@ -45,30 +45,16 @@
 
     </span><!-- endof #breadcrumb -->
 
-    <a href="#" id="sidebar-trigger"><i class="fas fa-bars fa-fw"></i> Menu</a>
-
-    <div id="topbar-title" style="width:90%;">
-      {% if page.layout == 'home' %}
+    <div id="topbar-title">
       {{- site.data.locales[lang].title | default: site.title -}}
-      {% elsif page.collection == 'tabs' or page.layout == 'page' %}
-      {%- capture tab_key -%}{{ page.url | split: '/' }}{%- endcapture -%}
-      {{- site.data.locales[lang].tabs[tab_key] | default: page.title -}}
-      {% else %}
-      {{- site.data.locales[lang].layout[page.layout] | default: page.layout | capitalize -}}
-      {% endif %}
     </div>
 
-    <!--
-    <i id="search-trigger" class="fas fa-search fa-fw"></i>
-    -->
-    <span id="search-wrapper" class="align-items-center"> -->
-      <!--
-      <i class="fas fa-search fa-fw"></i>
-      <input class="form-control" id="search-input" type="search"
-        aria-label="search" autocomplete="off" placeholder="{{ site.data.locales[lang].search.hint | capitalize }}...">
-    -->
-    </span>
-    <span id="search-cancel">{{ site.data.locales[lang].search.cancel }}</span>
+    {% if page.layout != "home" %}
+    <div id="topbar-home-link">
+      <a href="/">⬅ Accueil</a>
+    </div>
+    {% endif %}
+
   </div>
 
 </div>

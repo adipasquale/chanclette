@@ -1,0 +1,39 @@
+#home-hero {
+  margin: 4rem 0;
+}
+
+#home-hero img {
+  border-radius: 50%;
+}
+
+#topbar-title {
+  flex: 1;
+  width: auto;
+}
+
+footer {
+  font-size: 1.2rem;
+  height: auto;
+  min-height: 6rem;
+}
+
+footer > div {
+  gap: 2rem;
+}
+
+footer a.home {
+  color: var(--link-color);
+}
+
+footer .external-links .sidebar-bottom {
+  gap: .8rem;
+}
+
+footer .external-links .sidebar-bottom .btn {
+  color: inherit;
+  padding: 0;
+}
+
+footer .external-links .sidebar-bottom .icon-border {
+  display: none;
+}
