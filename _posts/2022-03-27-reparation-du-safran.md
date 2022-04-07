@@ -4,18 +4,6 @@ title: Réparation du safran
 date: 2022-03-27 11:59 +0200
 ---
 
-<style>
-  video {
-    max-width: 100%;
-    max-height: 80vh;
-    margin: auto;
-    display: block;
-  }
-  img {
-    max-height: 80vh;
-  }
-</style>
-
 Il y avait un décalage de plus en plus important entre la barre et l'axe du safran.
 
 ## Sortie du safran
