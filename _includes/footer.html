@@ -1,14 +1,28 @@
-<footer class="d-flex w-100 justify-content-center">
-  <div class="d-flex justify-content-between align-items-center">
-    <div class="footer-left">
-      {% if page.layout != "home" %}
-      <a class="home" href="/">⬅ Accueil</a>
-      {% endif %}
-    </div>
+<footer class="site-footer h-card">
+  <div class="wrapper">
+    <a href="/">Accueil</a>
     <div class="external-links">
-      {% include external-links.html %}
-    </div>
-  </div> <!-- div.d-flex -->
-</footer>
+      <div>
+        <i>Chanclette - Dufour 1800</i>
+      </div>
+      <a href='feed.xml'>
+        <svg class="svg-icon">
+          <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+        </svg>
+      </a>
+      <a href="https://github.com/{{ site.social.github | cgi_escape | escape }}" target="_blank"
+        title="{{ site.social.github | escape }}"><svg class="svg-icon grey">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use>
+        </svg></a>
 
-<link rel="stylesheet" href="/assets/style.css">
+      <a href="https://twitter.com/{{ site.social.twitter | cgi_escape | escape }}" target="_blank"
+        title="{{ site.social.twitter | escape }}"><svg class="svg-icon grey">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
+        </svg></a>
+
+      <a href="mailto:adrien@dipasquale.fr"><svg class="svg-icon grey">
+          <use xlink:href="{{ '/assets/minima-social-icons.svg#mail' | relative_url }}"></use>
+        </svg></a>
+    </div>
+  </div>
+</footer>

@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2022-04-07T18:42:53+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chanclette</title><subtitle>Bricolages sur Dufour 1800</subtitle><entry><title type="html">Réparation du safran</title><link href="http://localhost:4000/2022/03/27/reparation-du-safran.html" rel="alternate" type="text/html" title="Réparation du safran" /><published>2022-03-27T11:59:00+02:00</published><updated>2022-03-27T11:59:00+02:00</updated><id>http://localhost:4000/2022/03/27/reparation-du-safran</id><content type="html" xml:base="http://localhost:4000/2022/03/27/reparation-du-safran.html"><![CDATA[<p>Il y avait un décalage de plus en plus important entre la barre et l’axe du safran.</p>
+
+<h2 id="sortie-du-safran">Sortie du safran</h2>
+
+<p>On a commencé par sortir le safran, le bateau étant à flot.</p>
+
+<p><img src="/assets/images/safran/sortie-safran-optimized.jpg" alt="Sortie Safran" /></p>
+
+<p>Pour préparer la sortie du safran, on a :</p>
+
+<ul>
+  <li>noué un bout de corde dyneema très fin dans un des anneaux des ergots en haut du safran.</li>
+  <li>défait les deux écrous retenant le safran</li>
+  <li>glissé la plaque circulaire maintenant le safran au dessus des ergots et à travers le dyneema et libéré l’autre anneau</li>
+  <li>retenu le safran cet anneau maintenant libre</li>
+  <li>coupé le dyneema et fini de passer la plaque ✨</li>
+</ul>
+
+<p><img src="/assets/images/safran/safran-haut-optimized.jpg" alt="" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-depart-vieux-port.mov" />
+</video>
+
+<h2 id="ouverture-du-safran">Ouverture du safran</h2>
+
+<p>On a ouvert l’ancien safran à la meuleuse en faisant quelques traits de découpe à la verticale le long de la mèche. C’était relativement facile de décoller les deux parties collées dans l’axe longitudinal.</p>
+
+<p>Belle surprise lors de l’ouverture : 20L d’eau noire comme de l’huile s’échappent. on découvre que les tiges du peigne horizontal sont complètement mangées par la rouille et ne tiennent plus rien depuis un moment 🙀 On a entamé ce chantier juste à temps.</p>
+
+<p><img src="/assets/images/safran/safran-ancien-optimized.jpg" alt="" /></p>
+
+<p><img src="/assets/images/safran/safran-ouvert-1-optimized.jpg" alt="" /></p>
+
+<p><img src="/assets/images/safran/safran-ouvert-2-optimized.jpg" alt="" /></p>
+
+<h2 id="soudure-de-nouvelles-tiges">Soudure de nouvelles tiges</h2>
+
+<p>Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c’était une très mauvaise idée. On a racheté un tube inox ø 27mm chez Prolians, vendu par 6 mètres uniquement, pour 100 euros. Niels a ensuite :</p>
+
+<ul>
+  <li>bien nettoyé les anciennes fixations sur la mèche à la meuleuse</li>
+  <li>coupé le tube en trois sections</li>
+  <li>fait les “gueules de loups” pour les fixations tubes sur tube</li>
+  <li>soudé tout ça !</li>
+</ul>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-nettoyage-tubes.mov" />
+</video>
+
+<p><img src="/assets/images/safran/safran-gueules-de-loups-optimized.jpg" alt="" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-soudure-1.mov" />
+</video>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-soudure-2.mov" />
+</video>
+
+<p><img src="/assets/images/safran/safran-tubes-soudes-optimized.jpg" alt="" /></p>
+
+<p>(La mèche ne sera évidemment pas positionné à ce niveau des planches du safran qu’on voit en dessous :)</p>
+
+<h2 id="découpe-et-défonce-des-planches">Découpe et défonce des planches</h2>
+
+<p>On a acheté un grand panneau de contreplaqué Okoumé nautique coupé en 5 chez Leroy Merlin pour 200 euros. On a d’abord reproduit la forme générale du safran sur ces 5 planches. Puis Simon a découpé entièrement l’empreinte de la mèche et des tiges sur la planche centrale.
+Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres planches avec une défonceuse, une scie plongeante et une scie sauteuse.</p>
+
+<p><img src="/assets/images/safran/safran-plan-planches-optimized.jpg" alt="Plan des 5 planches en sandwich et différentes épaisseurs" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-defonce-1.mov" />
+</video>
+
+<p><img src="/assets/images/safran/safran-defonce-optimized.jpg" alt="Défonce des planches" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-defonce-2.mov" />
+</video>
+
+<h2 id="collage-des-plaques">Collage des plaques</h2>
+
+<p>On a collé les planches avec de la résine epoxy. La mèche se glisse au milieu après la deuxième planche. On a coulé de la colle expansive PU D4 tout autour de la mèche et des tiges pour contraindre leur déplacement (pas forcément adapté, mais on n’avait pas mieux à disposition). On a bien serré tout ça avec des IPN et des serre-joints de compétition puis on a fait sécher à la verticale pour que la colle se répande de manière homogène - au moins 24h et à l’intérieur.</p>
+
+<p><img src="/assets/images/safran/safran-sandwich-optimized.jpg" alt="Empilement du sandwich de planches" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-collage.mov" />
+</video>
+
+<p><img src="/assets/images/safran/safran-sechage-optimized.jpg" alt="Séchage du safran" /></p>
+
+<h2 id="rabotage-et-shaping">Rabotage et shaping</h2>
+
+<p>De loin la partie la plus agréable : le rabotage et ponçage pour reproduire la forme initiale. Simon a fait ça d’une main de maître ! Les épaisseurs du contreplaqué permettent de voir les épaisseurs et de faire des courbes bien propres.</p>
+
+<p><img src="/assets/images/safran/safran-fin-sechage-optimized.jpg" alt="Safran sec" /></p>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-rabotage-1.mov" />
+</video>
+
+<video muted="" autoplay="" loop="" controls="">
+  <source src="/assets/images/safran/safran-rabotage-2.mov" />
+</video>
+
+<p><img src="/assets/images/safran/safran-bois-fini-optimized.jpg" alt="Safran re-shapé" /></p>
+
+<h2 id="stratification--peinture">Stratification &amp; peinture</h2>
+
+<p>Le safran a été rapatrié à la maison pour profiter de la chaleur. J’ai créé une structure en bois pour le suspendre et pouvoir travailler sans qu’il repose sur un flanc. Pour la stratification résine époxy + fibre de verre on m’a conseillé de faire trois couches : mat, tissu, mat + un tissu d’arrachage à la fin. Je ne suis pas convaincu par la dernière couche de mat qui rajoute beaucoup d’irrégularités et est dure à appliquer. Cette étape s’est assez mal passé, le mat n’accrochait pas, j’ai manqué de résine et dû reprendre la fin plus tard.</p>
+
+<p>Ensuite j’ai fait deux couches de primaire blanche puis deux couches d’antifouling bleu. La différence de couleur permettra de repérer les accrocs.</p>
+
+<p><img src="/assets/images/safran/safran-structure-optimized.jpg" alt="Safran suspendu structure" /></p>
+
+<p><img src="/assets/images/safran/safran-primaire-optimized.jpg" alt="Safran couche de peinture primaire" /></p>
+
+<p><img src="/assets/images/safran/safran-antifouling-optimized.jpg" alt="Safran couche de peinture antifouling" /></p>
+
+<h2 id="remise-en-place">Remise en place</h2>
+
+<p>La grosse surprise lors de la repose a été que le safran ne coule plus mais flotte très fort ! C’était donc assez compliqué de le faire couler pour enfiler la mèche dans le tube de jaumière. Après des essais infructueux avec l’ancre, on a réussi en se mettant à l’eau et en se mettant debout dessus. Le safran a pris pas mal de coups pendant ces manipulations malheureusement.</p>
+
+<p>Mauvaise nouvelle une fois enfilé : il ressort d’un centimètre de moins qu’avant et c’est problématique pour reposer la plaque et le fixer. Il a donc fallu le ressortir, poncer le haut du safran autour de la mèche, re-stratifier et repeindre. C’était peu pratique puisque c’est la partie la plus sensible en termes d’étanchéité, et que le safran était maintenant à l’air libre et pas si chaud pour sécher malgré la fin d’hiver marseillais.</p>
+
+<p><img src="/assets/images/safran/safran-remis-optimized.jpg" alt="Safran reposé" />
+<img src="/assets/images/safran/safran-reponce-optimized.jpg" alt="Safran reponcé" />
+<img src="/assets/images/safran/safran-sechage-2-optimized.jpg" alt="Safran qui sèche" /></p>
+
+<p>Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 Ce n’est pas encore parfait mais ça le fait.</p>
+
+<p>Des voisins de ponton m’ont signalé qu’il manque une bague en teflon que je devrais placer entre le safran et le tube de jaumière pour absorber les frottements. Ça sera pour le prochain carénage.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Il y avait un décalage de plus en plus important entre la barre et l’axe du safran.]]></summary></entry><entry><title type="html">Renforcement du pont sous le pied de mât</title><link href="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html" rel="alternate" type="text/html" title="Renforcement du pont sous le pied de mât" /><published>2021-07-01T13:15:00+02:00</published><updated>2021-07-01T13:15:00+02:00</updated><id>http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat</id><content type="html" xml:base="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html"><![CDATA[<p>Le pont était enfoncé sous le pied de mât. Je l’avais repéré en achetant le bateau mais j’ai supposé que c’était acceptable. Les avis autour de moi m’ont rapidement fait comprendre que ça ne l’était pas et qu’il fallait reprendre tout ça !</p>
+
+<p><img src="/assets/images/mat/avant-1-optimized.jpg" alt="" />
+<img src="/assets/images/mat/avant-2-optimized.jpg" alt="" /></p>
+
+<h2 id="démâtage">Démâtage</h2>
+
+<p>Je n’ai malheureusement pas de vidéo du démâtage mais c’était assez impressionnant ! Après hésitation j’ai décidé de démâter sans grue et à flot, avec l’aide de plusieurs amis. Nous avons passé la drisse de génois dans le davier pour retenir le mât en avant avec un effet de poulie. À la poupe on a utilisé la drisse de grand-voile pour retenir le mât en arrière. Sur les côtés on a utilisé les haubans une fois décrochés.</p>
+
+<p>Ça remonte un peu, mais il me semble que dans l’ordre on a :</p>
+
+<ol>
+  <li>défait le pataras. Le mât tient très bien sans pataras sur ce type de gréement avec les barres de flèches qui reviennent sur l’arrière.</li>
+  <li>défait les haubans</li>
+  <li>défait l’étai</li>
+  <li>fait basculer le mat vers l’arrière</li>
+</ol>
+
+<p>Je n’étais pas sûr à 100% mais le pied de mât est bien prévu pour basculer en arrière, bonne surprise 😅</p>
+
+<p>Et note pour le futur : une fois les haubans défaits, faire très attention au déplacement des personnes sur le bateau, le roulis devient très dangereux !</p>
+
+<p>Tout s’est bien passé mais c’était stressant.</p>
+
+<h2 id="ouverture-du-pont">Ouverture du pont</h2>
+
+<p>Voici l’état du pont après démâtage, retrait du pied de mât en métal :</p>
+
+<p><img src="/assets/images/mat/demate-1-optimized.jpg" alt="" /></p>
+
+<p>On a d’abord fait une “petite” ouverture avec un multitool autour de la partie rectangulaire pour voir l’état de la pièce en bois à cet endroit.</p>
+
+<p><img src="/assets/images/mat/ouvert-1-optimized.jpg" alt="" /></p>
+
+<p>Ce morceau de bois n’était pas pourri comme je m’y attendais. Après consultation d’un charpentier marin, j’ai décidé de garder ce morceau.</p>
+
+<p><img src="/assets/images/mat/ouvert-2-optimized.jpg" alt="" /></p>
+
+<p>Une fois ce bois enlevé on a pu voir le délaminage très net du balsa et du pont. On a vu aussi que le balsa était pourri par endroit.</p>
+
+<p>On a alors décidé d’ouvrir une demi-lune bien plus grande pour pouvoir reprendre le délaminage sur une surface plus importante.</p>
+
+<p><img src="/assets/images/mat/ouverture-1-optimized.jpg" alt="" />
+<img src="/assets/images/mat/ouverture-2-optimized.jpg" alt="" /></p>
+
+<p>On voit ici bien les parties du balsa qui sont pourries : elles s’effritent et se décrochent à la main.</p>
+
+<p>On a poncé (ou meulé je ne sais plus) toute la partie abîmée du balsa pour préparer la surface.</p>
+
+<p><img src="/assets/images/mat/poncage-optimized.jpg" alt="" /></p>
+
+<p>On voit la varangue intérieure moulée apparaître ainsi que la fibre de verre intérieure.</p>
+
+<h2 id="restratification">Restratification</h2>
+
+<p>Avant de restratifier on a mis quelques touches de mastic polyester par endroits pour que la surface soit nette et permettre l’accrochage de la résine.</p>
+
+<p><img src="/assets/images/mat/mastic-avant-optimized.jpg" alt="" /></p>
+
+<p>On a préparé plusieurs morceaux de tissu de fibre de verre à empiler, et on a lancé la stratification. C’était en plein été, ça prenait très vite donc on a réalisé plusieurs fois le mélange de résine et de durcisseur plutôt qu’en une fois. On a coulé la pièce de bois dans la résine en respectant son emplacement initial.</p>
+
+<p><img src="/assets/images/mat/stratification-optimized.jpg" alt="" />
+<img src="/assets/images/mat/fin-stratification-optimized.jpg" alt="" /></p>
+
+<p>Je n’ai pas précisé qu’avant de mettre la pièce en bois, nous avons décidé d’y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l’inverse par des tire-fonds qui venaient s’enfoncer dans la pièce de bois. ça ne nous a pas paru très solide de reproduire ça donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n’ai malheureusement pas de photo du pied de mât.</p>
+
+<h2 id="finition-du-pont">Finition du pont</h2>
+
+<p>Après la stratification on a mis des couche de mastic puis poncé. On a répété cette opération jusqu’à obtenir une surface satisfaisante.</p>
+
+<p><img src="/assets/images/mat/mastic-apres-optimized.jpg" alt="" />
+<img src="/assets/images/mat/mastic-apres-poncage-optimized.jpg" alt="" /></p>
+
+<p>On voit ici que j’ai poncé le gelcoat plus largement que l’ouverture pour faire une reprise nette et récupérer les éclaboussures de résine.</p>
+
+<p>Enfin on a passé une ou deux couches de gelcoat :</p>
+
+<p><img src="/assets/images/mat/gelcoat-optimized.jpg" alt="" /></p>
+
+<p>Une fois bien sec j’ai reposé le pied de mât sur les tiges filetées, boulonné et meulé l’excédent de tige. Je n’avais pas du tout anticipé que les boulons risquaient de gêner par rapport au tire-fonds qui eux ne dépassaient pas 🙀 Heureusement j’ai eu de la chance et ça passait, juste.</p>
+
+<h2 id="remâtage">Remâtage</h2>
+
+<p>J’ai profité d’avoir tombé le mât pour changer tout le dormant qui était vieux et dont les ridoirs n’avaient pas assez de jeu. Une des barres de flèche a aussi été resoudée sur l’extrémité côté du mât qui était mangée. La Voilerie Phocéenne a fait ce travail pour 750 euros. J’ai aussi changé la girouette, et le feu de tête.</p>
+
+<p>Pour le remâtage, j’ai encore mobilisé de nombreux amis (merci !). On a fait l’opération en sens inverse et tout s’est bien passé, même si c’était là encore très stressant ! La fixation de l’étai était particulièrement dure mais on a fini par y arriver.</p>
+
+<p><img src="/assets/images/mat/rematage-optimized.jpg" alt="" /></p>
+
+<p>J’étais soulagé une fois ce gros chantier terminé 🥳 Un voilier sans mât c’est triste à voir.</p>
+
+<p>On a croisé les doigts lors des premières sorties en mer, mais tout s’est très bien passé et rien n’a bougé une fois les haubans bien resserrés.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Le pont était enfoncé sous le pied de mât. Je l’avais repéré en achetant le bateau mais j’ai supposé que c’était acceptable. Les avis autour de moi m’ont rapidement fait comprendre que ça ne l’était pas et qu’il fallait reprendre tout ça !]]></summary></entry></feed>

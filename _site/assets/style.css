@@ -1,0 +1,149 @@
+/* LAYOUT */
+
+:root {
+  --nc-bg-2: rgb(39, 40, 43);
+  --nc-tx-1: rgb(204, 204, 204);
+  --nc-tx-2: rgb(175, 176, 177);
+}
+body {
+  background-color: rgb(27, 27, 30);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  max-width: none;
+}
+.wrapper {
+  max-width: 768px;
+  margin: 2rem auto;
+}
+header {
+  margin: 0;
+}
+header, footer {
+  background-color: var(--nc-bg-2);
+}
+
+header .title {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+header .title .avatar {
+  /* position: relative; */
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+header .title .avatar img {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+header nav {
+  margin: 2rem 0 0 0;
+}
+
+main {
+  flex-grow: 1;
+}
+
+footer .external-links {
+  margin-top: 1rem;
+  display: flex;
+  align-items: center;
+  gap: .8rem;
+}
+footer .external-links a {
+  text-decoration: none;
+}
+footer .external-links a svg.svg-icon {
+  height: 20px;
+  width: 20px;
+  fill: #666;
+  vertical-align: middle;
+}
+footer .external-links a:hover svg.svg-icon {
+  fill: #fff;
+}
+
+@media screen and (max-width: 600px) {
+  .wrapper {
+    padding: .5rem .5rem 0 .5rem;
+  }
+  header h1 {
+    font-size: 1.8rem;
+  }
+}
+
+/* HOME */
+
+.home .post-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+.home .post-list li{
+  margin: 0 0 3rem 0;
+  padding: 0;
+}
+.home .post-list li p {
+  /* post excerpt */
+  color: rgb(175, 176, 177);
+}
+
+/* POSTS */
+
+.post-wrapper {
+  display: grid;
+  grid-template-columns: 1fr fit-content(768px) 1fr;
+  margin: 2rem;
+}
+@media screen and (max-width: 600px) {
+  .post-wrapper {
+    margin: .8rem;
+  }
+}
+@media screen and (max-width: 1200px) {
+  #table-of-contents {
+    display: none;
+  }
+}
+
+.post-wrapper .right {
+  /* position: relative; */
+}
+#table-of-contents {
+  position: sticky;
+  top: 10rem;
+  max-width: 100%;
+}
+#table-of-contents a {
+  color: var(--nc-tx-2);
+}
+#table-of-contents a:hover {
+  color: #fff;
+}
+.post .post-title {
+  margin-bottom: 3rem;
+}
+.post .post-content video {
+  max-width: 100%;
+  max-height: 80vh;
+  display: block;
+  margin: 0.5rem auto;
+}
+.post .post-content img {
+  max-height: 80vh;
+}
+
+
+/* UTILITIES */
+
+.text-muted {
+  color: rgb(108, 117, 125)
+}
