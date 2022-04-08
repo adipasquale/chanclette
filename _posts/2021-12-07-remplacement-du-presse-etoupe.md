@@ -2,12 +2,12 @@
 layout: post
 title: Remplacement du presse-étoupe
 date: 2021-12-07 11:57 +0200
-thumb_path: /assets/images/presse-etoupe/avant-1.jpg
+thumb_path: /assets/images/presse-etoupe/avant-1-optimized.jpg
 ---
 
 De l'eau s'infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l'étoupe à cause de son état d'usure et du mécanisme un peu vieux et compliqué.
 
-![](/assets/images/presse-etoupe/avant-1.jpg)
+![](/assets/images/presse-etoupe/avant-1-optimized.jpg)
 
 ## Préparation
 
@@ -19,20 +19,20 @@ Le bateau a été sorti de l'eau au MACT sur le vieux port de Marseille, où le 
 
 La première étape a été de défaire l'ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis on a défait le tourteau en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.
 
-![](/assets/images/presse-etoupe/libre.jpg)
+![](/assets/images/presse-etoupe/libre-optimized.jpg)
 
 
 Lors du retrait de l'axe d'hélice, on s'est rendu compte que le safran gênait. Le grutier a relevé le bateau et on a pu retirer puis remettre le safran assez facilement. Il suffit sur ce bateau d'enlever la barre, puis deux boulons fixés sur une plaque circulaire en haut du tube de jaumière qui retiennent la mèche de safran.
 
-![](/assets/images/presse-etoupe/safran.jpg)
+![](/assets/images/presse-etoupe/safran-optimized.jpg)
 
 L'axe d'hélice a été nettoyé à l'atelier, et on a eu du mal à remettre l'anode en bout d'axe à cause d'un pas de vis récalcitrant. L'hélice était recouverte d'une couche de calcaire importante, on l'a meulée pour la nettoyer elle aussi. L'anode montrait des signes de vieillesse et a été remplacée.
 
-![](/assets/images/presse-etoupe/helice.jpg)
+![](/assets/images/presse-etoupe/helice-optimized.jpg)
 
 Ensuite, le mécanicien a procédé à l'étape la plus compliquée : le recentrage de l'axe. Il faut visser et dévisser les 4 silent-blocks minutieusement pour que l'alignement soit aussi parfait que possible. Il a utilisé un outil avec différents étalons d'épaisseur qu'il glissait autour du tourteau pour vérifier que l'écart était uniforme sur tout le périmètre.
 
-![](/assets/images/presse-etoupe/silent-blocks.jpg)
+![](/assets/images/presse-etoupe/silent-blocks-optimized.jpg)
 
 Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me manque une photo du travail terminé, je la rajouterai rapidement.
 
@@ -40,7 +40,7 @@ Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me man
 
 J'ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J'ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s'installer à l'intérieur de la coque mais la roulette du loch doit évidemment être au contact de l'eau. Le diamètre du tube précédent était moins important que le NASA, je l'ai donc remplacé. Le retrait de l'ancien n'était pas évident car le tube en plastique était renforcé avec du métal. J'ai refixé le tout au Sikaflex.
 
-![](/assets/images/presse-etoupe/loch.jpg)
+![](/assets/images/presse-etoupe/loch-optimized.jpg)
 
 ## Épilogue
 

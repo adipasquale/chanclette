@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2022-04-08T12:38:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chanclette</title><subtitle>Bricolages sur Dufour 1800</subtitle><entry><title type="html">Réparation du safran</title><link href="http://localhost:4000/2022/03/27/reparation-du-safran.html" rel="alternate" type="text/html" title="Réparation du safran" /><published>2022-03-27T11:59:00+02:00</published><updated>2022-03-27T11:59:00+02:00</updated><id>http://localhost:4000/2022/03/27/reparation-du-safran</id><content type="html" xml:base="http://localhost:4000/2022/03/27/reparation-du-safran.html"><![CDATA[<p>Il y avait un décalage de plus en plus important entre la barre et l’axe du safran. J’ai décidé d’ouvrir le safran et de probablement le refaire en entier.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2022-04-08T12:43:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chanclette</title><subtitle>Bricolages sur Dufour 1800</subtitle><entry><title type="html">Réparation du safran</title><link href="http://localhost:4000/2022/03/27/reparation-du-safran.html" rel="alternate" type="text/html" title="Réparation du safran" /><published>2022-03-27T11:59:00+02:00</published><updated>2022-03-27T11:59:00+02:00</updated><id>http://localhost:4000/2022/03/27/reparation-du-safran</id><content type="html" xml:base="http://localhost:4000/2022/03/27/reparation-du-safran.html"><![CDATA[<p>Il y avait un décalage de plus en plus important entre la barre et l’axe du safran. J’ai décidé d’ouvrir le safran et de probablement le refaire en entier.</p>
 
 <h2 id="sortie-du-safran">Sortie du safran</h2>
 
@@ -142,7 +142,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
   <li>Les conseils des vendeurs de Accastillage Diffusion Vieux Port pour la stratification.</li>
 </ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Il y avait un décalage de plus en plus important entre la barre et l’axe du safran. J’ai décidé d’ouvrir le safran et de probablement le refaire en entier.]]></summary></entry><entry><title type="html">Remplacement du presse-étoupe</title><link href="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html" rel="alternate" type="text/html" title="Remplacement du presse-étoupe" /><published>2021-12-07T10:57:00+01:00</published><updated>2021-12-07T10:57:00+01:00</updated><id>http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe</id><content type="html" xml:base="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html"><![CDATA[<p>De l’eau s’infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l’étoupe à cause de son état d’usure et du mécanisme un peu vieux et compliqué.</p>
 
-<p><img src="/assets/images/presse-etoupe/avant-1.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/avant-1-optimized.jpg" alt="" /></p>
 
 <h2 id="préparation">Préparation</h2>
 
@@ -154,19 +154,19 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p>La première étape a été de défaire l’ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis on a défait le tourteau en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.</p>
 
-<p><img src="/assets/images/presse-etoupe/libre.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/libre-optimized.jpg" alt="" /></p>
 
 <p>Lors du retrait de l’axe d’hélice, on s’est rendu compte que le safran gênait. Le grutier a relevé le bateau et on a pu retirer puis remettre le safran assez facilement. Il suffit sur ce bateau d’enlever la barre, puis deux boulons fixés sur une plaque circulaire en haut du tube de jaumière qui retiennent la mèche de safran.</p>
 
-<p><img src="/assets/images/presse-etoupe/safran.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/safran-optimized.jpg" alt="" /></p>
 
 <p>L’axe d’hélice a été nettoyé à l’atelier, et on a eu du mal à remettre l’anode en bout d’axe à cause d’un pas de vis récalcitrant. L’hélice était recouverte d’une couche de calcaire importante, on l’a meulée pour la nettoyer elle aussi. L’anode montrait des signes de vieillesse et a été remplacée.</p>
 
-<p><img src="/assets/images/presse-etoupe/helice.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/helice-optimized.jpg" alt="" /></p>
 
 <p>Ensuite, le mécanicien a procédé à l’étape la plus compliquée : le recentrage de l’axe. Il faut visser et dévisser les 4 silent-blocks minutieusement pour que l’alignement soit aussi parfait que possible. Il a utilisé un outil avec différents étalons d’épaisseur qu’il glissait autour du tourteau pour vérifier que l’écart était uniforme sur tout le périmètre.</p>
 
-<p><img src="/assets/images/presse-etoupe/silent-blocks.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/silent-blocks-optimized.jpg" alt="" /></p>
 
 <p>Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me manque une photo du travail terminé, je la rajouterai rapidement.</p>
 
@@ -174,7 +174,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p>J’ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J’ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s’installer à l’intérieur de la coque mais la roulette du loch doit évidemment être au contact de l’eau. Le diamètre du tube précédent était moins important que le NASA, je l’ai donc remplacé. Le retrait de l’ancien n’était pas évident car le tube en plastique était renforcé avec du métal. J’ai refixé le tout au Sikaflex.</p>
 
-<p><img src="/assets/images/presse-etoupe/loch.jpg" alt="" /></p>
+<p><img src="/assets/images/presse-etoupe/loch-optimized.jpg" alt="" /></p>
 
 <h2 id="épilogue">Épilogue</h2>
 
