@@ -13,7 +13,7 @@ layout: default
         <h1 itemprop="name headline">{{ page.title | escape }}</h1>
         <p class="post-meta">
           <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-            le {{ page.date | date: "%d/%m/%Y" }}
+            📆 le {{ page.date | date: "%d/%m/%Y" }}
           </time>
           {%- if page.modified_date -%}
           ~
@@ -22,6 +22,12 @@ layout: default
             modifié le {{ mdate | date: "%d/%m/%Y" }}
           </time>
           {%- endif -%}
+        </p>
+        <p class="post-meta">
+          💶 Coût: {{ page.chantier_cout }}
+        </p>
+        <p class="post-meta">
+          ⏲️ Durée: {{ page.chantier_temps }}
         </p>
       </div>
 

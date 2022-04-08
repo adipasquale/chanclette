@@ -3,6 +3,8 @@ layout: post
 title: Réparation du safran
 date: 2022-03-27 11:59 +0200
 thumb_path: /assets/images/safran/safran-bois-fini-optimized.jpg
+chantier_temps: 3 semaines
+chantier_cout: 500€ de main d'oeuvre + ~600€ de matériel
 ---
 
 Il y avait un décalage de plus en plus important entre la barre et l'axe du safran. J'ai décidé d'ouvrir le safran et de probablement le refaire en entier.

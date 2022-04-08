@@ -3,6 +3,8 @@ layout: post
 title: Remplacement du presse-étoupe
 date: 2021-12-07 11:57 +0200
 thumb_path: /assets/images/presse-etoupe/avant-1-optimized.jpg
+chantier_temps: 1/2J pour le mécanicien + temps grutage
+chantier_cout: 600€ pièces et main d'oeuvre + 200€ grutage
 ---
 
 De l'eau s'infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l'étoupe à cause de son état d'usure et du mécanisme un peu vieux et compliqué.
