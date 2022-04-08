@@ -84,12 +84,16 @@ footer .external-links a:hover svg.svg-icon {
 
 .home .post-list{
   list-style-type: none;
-  margin: 0;
+  margin: 3rem 0 0 0;
   padding: 0;
 }
 .home .post-list li{
-  margin: 0 0 3rem 0;
-  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  margin-top: 1rem;
+  padding: 0 0 2rem 0;
+  border-bottom: 1px solid var(--nc-bg-2);
 }
 .home .post-list li p {
   /* post excerpt */

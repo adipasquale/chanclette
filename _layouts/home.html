@@ -24,14 +24,17 @@ layout: default
   <ul class="post-list">
     {%- for post in posts -%}
     <li>
-      <h3>
-        <a class="post-link" href="{{ post.url | relative_url }}">
-          {{ post.title | escape }}
-        </a>
-      </h3>
-      {{ post.excerpt }}
-      <div class="text-muted">
-        le {{ post.date | date: "%d/%m/%Y" }}
+      <div><img src="{{ post.thumb_path }}"></div>
+      <div>
+        <h3>
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
+          </a>
+        </h3>
+        {{ post.excerpt }}
+        <div class="text-muted">
+          le {{ post.date | date: "%d/%m/%Y" }}
+        </div>
       </div>
     </li>
     {%- endfor -%}

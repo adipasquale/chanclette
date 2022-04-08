@@ -2,6 +2,7 @@
 layout: post
 title: Renforcement du pont sous le pied de mât
 date: 2021-07-01 13:15 +0200
+thumb_path: /assets/images/mat/stratification-optimized.jpg
 ---
 
 Le pont était enfoncé sous le pied de mât. Je l'avais repéré en achetant le bateau mais j'ai supposé que c'était acceptable. Les avis autour de moi m'ont rapidement fait comprendre que ça ne l'était pas et qu'il fallait reprendre tout ça !

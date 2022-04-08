@@ -2,9 +2,10 @@
 layout: post
 title: Réparation du safran
 date: 2022-03-27 11:59 +0200
+thumb_path: /assets/images/safran/safran-bois-fini-optimized.jpg
 ---
 
-Il y avait un décalage de plus en plus important entre la barre et l'axe du safran.
+Il y avait un décalage de plus en plus important entre la barre et l'axe du safran. J'ai décidé d'ouvrir le safran et de probablement le refaire en entier.
 
 ## Sortie du safran
 
@@ -114,7 +115,7 @@ De loin la partie la plus agréable : le rabotage et ponçage pour reproduire la
 
 ## Stratification & peinture
 
-Le safran a été rapatrié à la maison pour profiter de la chaleur. J'ai créé une structure en bois pour le suspendre et pouvoir travailler sans qu'il repose sur un flanc. Pour la stratification résine époxy + fibre de verre on m'a conseillé de faire trois couches : mat, tissu, mat + un tissu d'arrachage à la fin. Je ne suis pas convaincu par la dernière couche de mat qui rajoute beaucoup d'irrégularités et est dure à appliquer. Cette étape s'est assez mal passé, le mat n'accrochait pas, j'ai manqué de résine et dû reprendre la fin plus tard.
+Le safran a été rapatrié à la maison pour profiter de la chaleur. J'ai créé une structure en bois pour le suspendre et pouvoir travailler sans qu'il repose sur un flanc. Pour la stratification résine époxy + fibre de verre on m'a conseillé de faire trois couches : mat, tissu, mat + un tissu d'arrachage à la fin. Je ne suis pas convaincu par la dernière couche de mat qui rajoute beaucoup d'irrégularités et est dure à appliquer. Cette étape s'est assez mal passé, le mat n'accrochait pas, j'ai manqué de résine et dû reprendre la fin plus tard. **il faut compter 1kg de résine pour 1m² de mat densité 500g/m²**.
 
 Ensuite j'ai fait deux couches de primaire blanche puis deux couches d'antifouling bleu. La différence de couleur permettra de repérer les accrocs.
 
@@ -137,3 +138,9 @@ Mauvaise nouvelle une fois enfilé : il ressort d'un centimètre de moins qu'ava
 Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 Ce n'est pas encore parfait mais ça le fait.
 
 Des voisins de ponton m'ont signalé qu'il manque une bague en teflon que je devrais placer entre le safran et le tube de jaumière pour absorber les frottements. Ça sera pour le prochain carénage.
+
+## Épilogue
+
+- Merci à Simon, Niels et Stephan 🙇‍♂️
+- Cette [vidéo YouTube](https://www.youtube.com/watch?v=BLbNyCMkMhU) de Mata'i Nautisme nous a grandement guidé.
+- Les conseils des vendeurs de Accastillage Diffusion Vieux Port pour la stratification.
