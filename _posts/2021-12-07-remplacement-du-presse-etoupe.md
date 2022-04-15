@@ -7,22 +7,21 @@ chantier_temps: 1/2J pour le mécanicien + temps grutage
 chantier_cout: 600€ pièces et main d'oeuvre + 200€ grutage
 ---
 
-De l'eau s'infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l'étoupe à cause de son état d'usure et du mécanisme un peu vieux et compliqué.
+De l'eau s'infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l'étoupe à cause de d'un mécanisme vieux et très usé.
 
 ![](/assets/images/presse-etoupe/avant-1-optimized.jpg)
 
 ## Préparation
 
-J'ai fait appel à Serge Atelier Marine pour remplacer ce presse-étoupe. Je leur ai présenté des photos et le diamètre de l'axe estimé car il se trouve à cet endroit sous la durite pour qu'ils puissent commander la nouvelle pièce. Étant donné que l'axe d'hélice est un peu usé ils m'ont recommandé de remettre un presse-étoupe classique plutôt qu'un système à lèvres.
+Serge Atelier Marine s'est occupé de ce remplacement de presse-étoupe. Je leur ai présenté des photos et le diamètre de l'axe estimé car il se trouve à cet endroit sous la durite pour qu'ils puissent commander la nouvelle pièce. Étant donné que l'axe d'hélice est un peu usé ils ont recommandé de remettre un presse-étoupe classique plutôt qu'un système à lèvres.
 
-Le bateau a été sorti de l'eau au MACT sur le vieux port de Marseille, où le grutier est sympa et arrangeant.
+Le bateau a été sorti de l'eau au MACT sur le vieux port de Marseille.
 
 ## Remplacement
 
-La première étape a été de défaire l'ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis on a défait le tourteau en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.
+La première étape a été de défaire l'ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis le tourteau a été désaccouplé en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.
 
 ![](/assets/images/presse-etoupe/libre-optimized.jpg)
-
 
 Lors du retrait de l'axe d'hélice, on s'est rendu compte que le safran gênait. Le grutier a relevé le bateau et on a pu retirer puis remettre le safran assez facilement. Il suffit sur ce bateau d'enlever la barre, puis deux boulons fixés sur une plaque circulaire en haut du tube de jaumière qui retiennent la mèche de safran.
 
@@ -40,7 +39,7 @@ Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me man
 
 ## Passage du nouveau loch
 
-J'ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J'ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s'installer à l'intérieur de la coque mais la roulette du loch doit évidemment être au contact de l'eau. Le diamètre du tube précédent était moins important que le NASA, je l'ai donc remplacé. Le retrait de l'ancien n'était pas évident car le tube en plastique était renforcé avec du métal. J'ai refixé le tout au Sikaflex.
+J'ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J'ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s'installer à l'intérieur de la coque mais la roulette du loch doit évidemment être au contact de l'eau. Le diamètre du tube précédent était moins important que le nouveau, je l'ai donc remplacé. Le retrait de l'ancien n'était pas évident car le tube en plastique était renforcé avec du métal. J'ai refixé le tout au Sikaflex.
 
 ![](/assets/images/presse-etoupe/loch-optimized.jpg)
 

@@ -7,7 +7,7 @@ chantier_temps: 3-4 semaines en dilettante
 chantier_cout: 300€ de main d'oeuvre + ~200€ de matériel + 750€ de gréement
 ---
 
-Le pont était enfoncé sous le pied de mât. Je l'avais repéré en achetant le bateau mais j'ai supposé que c'était acceptable. Les avis autour de moi m'ont rapidement fait comprendre que ça ne l'était pas et qu'il fallait reprendre tout ça !
+Le pont était enfoncé sous le pied de mât. Cela signalait un probable délaminage du pont qui pouvait s'avérer dangereux à cet endroit. Il a donc fallu restratifier cette partie.
 
 ![](/assets/images/mat/avant-1-optimized.jpg)
 ![](/assets/images/mat/avant-2-optimized.jpg)
@@ -16,22 +16,20 @@ Le pont était enfoncé sous le pied de mât. Je l'avais repéré en achetant le
 
 Je n'ai malheureusement pas de vidéo du démâtage mais c'était assez impressionnant ! Après hésitation j'ai décidé de démâter sans grue et à flot, avec l'aide de plusieurs amis. Nous avons passé la drisse de génois dans le davier pour retenir le mât en avant avec un effet de poulie. À la poupe on a utilisé la drisse de grand-voile pour retenir le mât en arrière. Sur les côtés on a utilisé les haubans une fois décrochés.
 
-Ça remonte un peu, mais il me semble que dans l'ordre on a :
+Dans l'ordre on a :
 
 1. défait le pataras. Le mât tient très bien sans pataras sur ce type de gréement avec les barres de flèches qui reviennent sur l'arrière.
 2. défait les haubans
 3. défait l'étai
 4. fait basculer le mat vers l'arrière
 
-Je n'étais pas sûr à 100% mais le pied de mât est bien prévu pour basculer en arrière, bonne surprise 😅
+Je n'étais pas sûr à 100% mais le pied de mât de ce Dufour 1800 est bien prévu pour basculer en arrière, bonne surprise !
 
-Et note pour le futur : une fois les haubans défaits, faire très attention au déplacement des personnes sur le bateau, le roulis devient très dangereux !
-
-Tout s'est bien passé mais c'était stressant.
+Et note pour le futur : **une fois les haubans défaits, faire très attention au déplacement des personnes sur le bateau, le roulis devient très dangereux**.
 
 ## Ouverture du pont
 
-Voici l'état du pont après démâtage, retrait du pied de mât en métal :
+Voici l'état du pont après démâtage et retrait du pied de mât en métal :
 
 ![](/assets/images/mat/demate-1-optimized.jpg)
 
@@ -45,14 +43,14 @@ Ce morceau de bois n'était pas pourri comme je m'y attendais. Après consultati
 
 Une fois ce bois enlevé on a pu voir le délaminage très net du balsa et du pont. On a vu aussi que le balsa était pourri par endroit.
 
-On a alors décidé d'ouvrir une demi-lune bien plus grande pour pouvoir reprendre le délaminage sur une surface plus importante.
+On a alors décidé d'ouvrir un demi-cercle bien plus grand pour pouvoir reprendre le délaminage sur une surface plus importante.
 
 ![](/assets/images/mat/ouverture-1-optimized.jpg)
 ![](/assets/images/mat/ouverture-2-optimized.jpg)
 
 On voit ici bien les parties du balsa qui sont pourries : elles s'effritent et se décrochent à la main.
 
-On a poncé (ou meulé je ne sais plus) toute la partie abîmée du balsa pour préparer la surface.
+On a poncé toute la partie abîmée du balsa pour préparer la surface.
 
 ![](/assets/images/mat/poncage-optimized.jpg)
 
@@ -70,26 +68,26 @@ On a préparé plusieurs morceaux de tissu de fibre de verre à empiler, et on a
 ![](/assets/images/mat/stratification-optimized.jpg)
 ![](/assets/images/mat/fin-stratification-optimized.jpg)
 
-Je n'ai pas précisé qu'avant de mettre la pièce en bois, nous avons décidé d'y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l'inverse par des tire-fonds qui venaient s'enfoncer dans la pièce de bois. ça ne nous a pas paru très solide de reproduire ça donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n'ai malheureusement pas de photo du pied de mât.
+Avant de mettre la pièce en bois, nous avons décidé d'y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l'inverse par des tire-fonds qui venaient s'enfoncer dans la pièce de bois. Ça ne nous semblait pas très solide donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n'ai malheureusement pas de photo du pied de mât.
 
 ## Finition du pont
 
-Après la stratification on a mis des couche de mastic puis poncé. On a répété cette opération jusqu'à obtenir une surface satisfaisante.
+Après la stratification on a mis des couches de mastic puis poncé. On a répété cette opération jusqu'à obtenir une surface satisfaisante.
 
 ![](/assets/images/mat/mastic-apres-optimized.jpg)
 ![](/assets/images/mat/mastic-apres-poncage-optimized.jpg)
 
-On voit ici que j'ai poncé le gelcoat plus largement que l'ouverture pour faire une reprise nette et récupérer les éclaboussures de résine.
+On voit ici que le gelcoat a été poncé plus largement que l'ouverture pour faire une reprise nette et récupérer les éclaboussures de résine.
 
 Enfin on a passé une ou deux couches de gelcoat :
 
 ![](/assets/images/mat/gelcoat-optimized.jpg)
 
-Une fois bien sec j'ai reposé le pied de mât sur les tiges filetées, boulonné et meulé l'excédent de tige. Je n'avais pas du tout anticipé que les boulons risquaient de gêner par rapport au tire-fonds qui eux ne dépassaient pas 🙀 Heureusement j'ai eu de la chance et ça passait, juste.
+Une fois bien sec le pied de mât a été fixé sur les tiges filetées, boulonné et on a meulé l'excédent de tiges. Je n'avais pas du tout anticipé que les boulons risquaient de gêner par rapport au tire-fonds qui eux ne dépassaient pas 🙀 Heureusement j'ai eu de la chance et ça passait tout juste.
 
 ## Remâtage
 
-J'ai profité d'avoir tombé le mât pour changer tout le dormant qui était vieux et dont les ridoirs n'avaient pas assez de jeu. Une des barres de flèche a aussi été resoudée sur l'extrémité côté du mât qui était mangée. La Voilerie Phocéenne a fait ce travail pour 750 euros. J'ai aussi changé la girouette, et le feu de tête.
+J'ai profité d'avoir démâté pour changer tout le dormant qui était vieux et dont les ridoirs n'étaient pas pratiques. Une des barres de flèche a aussi été resoudée sur l'extrémité côté du mât qui était mangée. La Voilerie Phocéenne a fait ce travail pour 750 euros. J'ai aussi changé la girouette, et le feu de tête.
 
 Pour le remâtage, j'ai encore mobilisé de nombreux amis (merci !). On a fait l'opération en sens inverse et tout s'est bien passé, même si c'était là encore très stressant ! La fixation de l'étai était particulièrement dure mais on a fini par y arriver.
 
