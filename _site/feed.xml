@@ -1,8 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2022-04-08T14:32:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chanclette</title><subtitle>Bricolages sur Dufour 1800</subtitle><entry><title type="html">Réparation du safran</title><link href="http://localhost:4000/2022/03/27/reparation-du-safran.html" rel="alternate" type="text/html" title="Réparation du safran" /><published>2022-03-27T11:59:00+02:00</published><updated>2022-03-27T11:59:00+02:00</updated><id>http://localhost:4000/2022/03/27/reparation-du-safran</id><content type="html" xml:base="http://localhost:4000/2022/03/27/reparation-du-safran.html"><![CDATA[<p>Il y avait un décalage de plus en plus important entre la barre et l’axe du safran. J’ai décidé d’ouvrir le safran et de probablement le refaire en entier.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="fr"><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="fr" /><updated>2022-09-04T15:32:23+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Chanclette</title><subtitle>Bricolages sur Dufour 1800</subtitle><entry><title type="html">Renforcement des cadènes de haubans</title><link href="http://localhost:4000/2022/09/04/renforcement-des-cad%C3%A8nes-de-haubans.html" rel="alternate" type="text/html" title="Renforcement des cadènes de haubans" /><published>2022-09-04T14:49:00+02:00</published><updated>2022-09-04T14:49:00+02:00</updated><id>http://localhost:4000/2022/09/04/renforcement-des-cad%C3%A8nes-de-haubans</id><content type="html" xml:base="http://localhost:4000/2022/09/04/renforcement-des-cad%C3%A8nes-de-haubans.html"><![CDATA[<p>Pour éviter le soulèvement du pont au niveau des cadènes, il a fallu renforcer les renvois intérieurs.</p>
+
+<h2 id="état-des-lieux">État des lieux</h2>
+
+<p>Les renforts de cadènes sont un peu légers sur les Dufour 1800, il s’agit d’une équerre renvoyant vers la cloison intérieure.</p>
+
+<p><img src="/assets/images/cadenes/ancien-renfort-optimized.jpg" alt="Ancien renfort" /></p>
+
+<p>On peut voir que les équerrents plient un peu et ne remplissent probablement pas leur rôle de renvoi des efforts. Des fissures sont apparues et commençaient à s’agrandir à l’intérieur et sur le pont.</p>
+
+<p><img src="/assets/images/cadenes/fissure-interieure-optimized.jpg" alt="Fissure intérieures" /></p>
+
+<p><img src="/assets/images/cadenes/fissure-pont-optimized.jpg" alt="Fissures pont" /></p>
+
+<p>On pouvait aussi sentir un très léger soulèvement du pont en passant la main près de la cadène tribord. J’avais un doute que le pont se délamine à cet endroit (sans vraiment savoir s’il y avait une couche de balsa à cet endroit).</p>
+
+<h2 id="plan">Plan</h2>
+
+<p>Sur conseils de professionnels, j’ai décidé de remplacer les équerres par des pontets et des ridoirs. L’idée est de permettre de régler la tension de renvoi, plutôt qu’un système fixe comme l’ancien.</p>
+
+<p><img src="/assets/images/cadenes/croquis-optimized.jpg" alt="Croquis" /></p>
+
+<p>Je souhaitais aussi augmenter l’épaisseur et la surface d’appui de la contreplaque inox. J’ai acheté une tôle de 10cm par 5mm d’épaisseur d’inox marin chez <a href="https://www.inoxalu.fr/Categories/21-inox-316l-marine-toles-a-la-coupe-brut">inoxalu</a> à Aubagne, un bon prix il me semble. Après réception je me suis rendu compte que 5mm c’était surdimensionné, mais cela ne pose pas de souci.</p>
+
+<h2 id="chantier">Chantier</h2>
+
+<p>Nous avons procédé bord par bord pour ne pas désolidariser tous les haubans simultanément. Le temps du chantier les haubans étaient fixés au rail de fargue, mais ce n’était pas forcément nécessaire.</p>
+
+<p><img src="/assets/images/cadenes/cadene-nue-optimized.jpg" alt="Cadène nue" /></p>
+
+<p>Pour écarter les doutes sur le délaminage, nous avons poncé le gelcoat et la fibre sur une certaine épaisseur. Il se trouve qu’il n’y a pas de balsa à cet endroit du pont, c’était donc inutile.</p>
+
+<p><img src="/assets/images/cadenes/pont-avant-optimized.jpg" alt="Pont avant" /></p>
+
+<p>Il a fallu restratifier cette partie, et donc poncer un peu plus large avec une déclivité progressive. On avait bien noté la position des trous avant pour pouvoir la reproduire au plus proche.</p>
+
+<p><img src="/assets/images/cadenes/restratification-optimized.jpg" alt="Restratification" /></p>
+
+<p>Sur l’autre bord nous avons uniquement refait la couche de gelcoat.</p>
+
+<p><img src="/assets/images/cadenes/gelcoat-optimized.jpg" alt="Gelcoat" /></p>
+
+<p>[Fin à rédiger]</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Pour éviter le soulèvement du pont au niveau des cadènes, il a fallu renforcer les renvois intérieurs.]]></summary></entry><entry><title type="html">Réparation du safran</title><link href="http://localhost:4000/2022/03/27/reparation-du-safran.html" rel="alternate" type="text/html" title="Réparation du safran" /><published>2022-03-27T11:59:00+02:00</published><updated>2022-03-27T11:59:00+02:00</updated><id>http://localhost:4000/2022/03/27/reparation-du-safran</id><content type="html" xml:base="http://localhost:4000/2022/03/27/reparation-du-safran.html"><![CDATA[<p>Le décalage entre la barre franche et l’axe du safran devenait de plus en plus important. Il devenait urgent d’ouvrir le safran pour l’inspecter et le réparer.</p>
 
 <h2 id="sortie-du-safran">Sortie du safran</h2>
 
-<p>On a commencé par sortir le safran, le bateau étant à flot.</p>
+<p>Sur ce type de safran suspendu de taille raisonnable, il est généralement possible de le retirer sans sortir le bateau de l’eau.</p>
 
 <p><img src="/assets/images/safran/sortie-safran-optimized.jpg" alt="Sortie Safran" /></p>
 
@@ -24,9 +66,9 @@
 
 <h2 id="ouverture-du-safran">Ouverture du safran</h2>
 
-<p>On a ouvert l’ancien safran à la meuleuse en faisant quelques traits de découpe à la verticale le long de la mèche. C’était relativement facile de décoller les deux parties collées dans l’axe longitudinal.</p>
+<p>L’ancien safran a été ouvert à la meuleuse en faisant quelques traits de découpe à la verticale le long de la mèche. C’était relativement facile de décoller les deux parties collées dans l’axe longitudinal.</p>
 
-<p>Belle surprise lors de l’ouverture : 20L d’eau noire comme de l’huile s’échappent. on découvre que les tiges du peigne horizontal sont complètement mangées par la rouille et ne tiennent plus rien depuis un moment 🙀 On a entamé ce chantier juste à temps.</p>
+<p>Surprise inquiétante lors de l’ouverture : 20L d’eau noire comme de l’huile s’échappent. Les tiges horizontales du “peigne” métalliques étaient complètement mangées par la rouille et ne tenaient plus rien depuis un moment 🙀 Ce chantier était effectivement critique !</p>
 
 <p><img src="/assets/images/safran/safran-ancien-optimized.jpg" alt="" /></p>
 
@@ -36,13 +78,13 @@
 
 <h2 id="soudure-de-nouvelles-tiges">Soudure de nouvelles tiges</h2>
 
-<p>Les anciennes tiges étaient probablement en acier, vu leur état de rouille, c’était une très mauvaise idée. On a racheté un tube inox ø 27mm chez Prolians, vendu par 6 mètres uniquement, pour 100 euros. Niels a ensuite :</p>
+<p>Les anciennes tiges étaient probablement en acier, vu leur état de rouille, une très mauvaise idée. On a racheté un tube inox ø 27mm chez Prolians, vendu par 6 mètres uniquement, pour 100 euros. Niels a ensuite :</p>
 
 <ul>
   <li>bien nettoyé les anciennes fixations sur la mèche à la meuleuse</li>
   <li>coupé le tube en trois sections</li>
   <li>fait les “gueules de loups” pour les fixations tubes sur tube</li>
-  <li>soudé tout ça !</li>
+  <li>resoudé ces sections à la mèche</li>
 </ul>
 
 <video muted="" autoplay="" loop="" controls="">
@@ -61,7 +103,7 @@
 
 <p><img src="/assets/images/safran/safran-tubes-soudes-optimized.jpg" alt="" /></p>
 
-<p>(La mèche ne sera évidemment pas positionné à ce niveau des planches du safran qu’on voit en dessous :)</p>
+<p><em>La mèche ne sera pas positionnée à ce niveau des planches visibles en dessous</em></p>
 
 <h2 id="découpe-et-défonce-des-planches">Découpe et défonce des planches</h2>
 
@@ -82,7 +124,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <h2 id="collage-des-plaques">Collage des plaques</h2>
 
-<p>On a collé les planches avec de la résine epoxy. La mèche se glisse au milieu après la deuxième planche. On a coulé de la colle expansive PU D4 tout autour de la mèche et des tiges pour contraindre leur déplacement (pas forcément adapté, mais on n’avait pas mieux à disposition). On a bien serré tout ça avec des IPN et des serre-joints de compétition puis on a fait sécher à la verticale pour que la colle se répande de manière homogène - au moins 24h et à l’intérieur.</p>
+<p>Les planches ont été collées entre elles à la résine epoxy. La mèche a été glissée au milieu du “sandwich” après la deuxième planche. On a coulé de la colle expansive PU D4 tout autour de la mèche et des tiges pour contraindre leur déplacement (ce n’est pas forcément la colle la plus adaptée, mais on n’avait pas mieux à disposition). On a bien serré tout ça avec des IPN et des grands serre-joints. Le séchage a duré plus de 24h, à l’intérieur et à la verticale pour que la colle se répande de manière homogène.</p>
 
 <p><img src="/assets/images/safran/safran-sandwich-optimized.jpg" alt="Empilement du sandwich de planches" /></p>
 
@@ -94,7 +136,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <h2 id="rabotage-et-shaping">Rabotage et shaping</h2>
 
-<p>De loin la partie la plus agréable : le rabotage et ponçage pour reproduire la forme initiale. Simon a fait ça d’une main de maître ! Les épaisseurs du contreplaqué permettent de voir les épaisseurs et de faire des courbes bien propres.</p>
+<p>C’était de loin la partie la plus agréable : le rabotage et ponçage pour reproduire la forme initiale. Simon a fait les finitions d’une main experte. Les épaisseurs du contreplaqué permettent de voir les épaisseurs et de faire des courbes bien propres.</p>
 
 <p><img src="/assets/images/safran/safran-fin-sechage-optimized.jpg" alt="Safran sec" /></p>
 
@@ -110,9 +152,9 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <h2 id="stratification--peinture">Stratification &amp; peinture</h2>
 
-<p>Le safran a été rapatrié à la maison pour profiter de la chaleur. J’ai créé une structure en bois pour le suspendre et pouvoir travailler sans qu’il repose sur un flanc. Pour la stratification résine époxy + fibre de verre on m’a conseillé de faire trois couches : mat, tissu, mat + un tissu d’arrachage à la fin. Je ne suis pas convaincu par la dernière couche de mat qui rajoute beaucoup d’irrégularités et est dure à appliquer. Cette étape s’est assez mal passé, le mat n’accrochait pas, j’ai manqué de résine et dû reprendre la fin plus tard. <strong>il faut compter 1kg de résine pour 1m² de mat densité 500g/m²</strong>.</p>
+<p>Le safran a été rapatrié à la maison pour profiter de la chaleur. J’ai construit une structure en bois pour le suspendre et pouvoir travailler sans qu’il repose sur un flanc. Pour la stratification résine époxy et fibre de verre on m’a conseillé de faire trois couches : mat, tissu, mat + un tissu d’arrachage à la fin. Je ne suis pas convaincu par la dernière couche de mat qui rajoute beaucoup d’irrégularités et était difficile à appliquer. Le mat n’accrochait pas, j’ai manqué de résine et dû reprendre la fin plus tard. <strong>Il faut compter 1kg de résine pour 1m² de mat densité 500g/m²</strong>.</p>
 
-<p>Ensuite j’ai fait deux couches de primaire blanche puis deux couches d’antifouling bleu. La différence de couleur permettra de repérer les accrocs.</p>
+<p>Ensuite la résine a été recouverte de deux couches de primaire blanche puis deux couches d’antifouling bleu. La différence de couleur permettra de repérer les accrocs.</p>
 
 <p><img src="/assets/images/safran/safran-structure-optimized.jpg" alt="Safran suspendu structure" /></p>
 
@@ -122,15 +164,15 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <h2 id="remise-en-place">Remise en place</h2>
 
-<p>La grosse surprise lors de la repose a été que le safran ne coule plus mais flotte très fort ! C’était donc assez compliqué de le faire couler pour enfiler la mèche dans le tube de jaumière. Après des essais infructueux avec l’ancre, on a réussi en se mettant à l’eau et en se mettant debout dessus. Le safran a pris pas mal de coups pendant ces manipulations malheureusement.</p>
+<p>La grosse surprise lors de la repose a été que le safran ne coule plus mais flotte très fort ! C’était donc assez compliqué de le faire couler pour enfiler la mèche dans le tube de jaumière. Après des essais infructueux avec l’ancre, on a réussi avec une personne à l’eau qui le guidait avec les pieds et son poids. Malheureusement, le safran a pris pas mal de coups pendant ces manipulations.</p>
 
-<p>Mauvaise nouvelle une fois enfilé : il ressort d’un centimètre de moins qu’avant et c’est problématique pour reposer la plaque et le fixer. Il a donc fallu le ressortir, poncer le haut du safran autour de la mèche, re-stratifier et repeindre. C’était peu pratique puisque c’est la partie la plus sensible en termes d’étanchéité, et que le safran était maintenant à l’air libre et pas si chaud pour sécher malgré la fin d’hiver marseillais.</p>
+<p>Mauvaise nouvelle une fois le safran remis : il ressort d’un centimètre de moins qu’avant et c’est problématique pour reposer la plaque et le fixer. Il a donc fallu le ressortir, poncer le haut du safran autour de la mèche, re-stratifier et repeindre. C’était peu pratique puisque c’est la partie la plus sensible en termes d’étanchéité, et que le safran était maintenant à l’air libre et pas si chaud pour sécher malgré la fin d’hiver marseillais.</p>
 
 <p><img src="/assets/images/safran/safran-remis-optimized.jpg" alt="Safran reposé" />
 <img src="/assets/images/safran/safran-reponce-optimized.jpg" alt="Safran reponcé" />
 <img src="/assets/images/safran/safran-sechage-2-optimized.jpg" alt="Safran qui sèche" /></p>
 
-<p>Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 Ce n’est pas encore parfait mais ça le fait.</p>
+<p>Une fois tout ça fait on a finalement pu remettre le safran et le fixer 🥳 L’épaisseur poncée n’était pas encore tout à fait suffisante mais ça passe.</p>
 
 <p>Des voisins de ponton m’ont signalé qu’il manque une bague en teflon que je devrais placer entre le safran et le tube de jaumière pour absorber les frottements. Ça sera pour le prochain carénage.</p>
 
@@ -139,20 +181,20 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 <ul>
   <li>Merci à Simon, Niels et Stephan 🙇‍♂️</li>
   <li>Cette <a href="https://www.youtube.com/watch?v=BLbNyCMkMhU">vidéo YouTube</a> de Mata’i Nautisme nous a grandement guidé.</li>
-  <li>Les conseils des vendeurs de Accastillage Diffusion Vieux Port pour la stratification.</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Il y avait un décalage de plus en plus important entre la barre et l’axe du safran. J’ai décidé d’ouvrir le safran et de probablement le refaire en entier.]]></summary></entry><entry><title type="html">Remplacement du presse-étoupe</title><link href="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html" rel="alternate" type="text/html" title="Remplacement du presse-étoupe" /><published>2021-12-07T10:57:00+01:00</published><updated>2021-12-07T10:57:00+01:00</updated><id>http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe</id><content type="html" xml:base="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html"><![CDATA[<p>De l’eau s’infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l’étoupe à cause de son état d’usure et du mécanisme un peu vieux et compliqué.</p>
+  <li>Les conseils des vendeurs de AD Vieux Port pour la stratification.</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Le décalage entre la barre franche et l’axe du safran devenait de plus en plus important. Il devenait urgent d’ouvrir le safran pour l’inspecter et le réparer.]]></summary></entry><entry><title type="html">Remplacement du presse-étoupe</title><link href="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html" rel="alternate" type="text/html" title="Remplacement du presse-étoupe" /><published>2021-12-07T10:57:00+01:00</published><updated>2021-12-07T10:57:00+01:00</updated><id>http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe</id><content type="html" xml:base="http://localhost:4000/2021/12/07/remplacement-du-presse-etoupe.html"><![CDATA[<p>De l’eau s’infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l’étoupe à cause de d’un mécanisme vieux et très usé.</p>
 
 <p><img src="/assets/images/presse-etoupe/avant-1-optimized.jpg" alt="" /></p>
 
 <h2 id="préparation">Préparation</h2>
 
-<p>J’ai fait appel à Serge Atelier Marine pour remplacer ce presse-étoupe. Je leur ai présenté des photos et le diamètre de l’axe estimé car il se trouve à cet endroit sous la durite pour qu’ils puissent commander la nouvelle pièce. Étant donné que l’axe d’hélice est un peu usé ils m’ont recommandé de remettre un presse-étoupe classique plutôt qu’un système à lèvres.</p>
+<p>Serge Atelier Marine s’est occupé de ce remplacement de presse-étoupe. Je leur ai présenté des photos et le diamètre de l’axe estimé car il se trouve à cet endroit sous la durite pour qu’ils puissent commander la nouvelle pièce. Étant donné que l’axe d’hélice est un peu usé ils ont recommandé de remettre un presse-étoupe classique plutôt qu’un système à lèvres.</p>
 
-<p>Le bateau a été sorti de l’eau au MACT sur le vieux port de Marseille, où le grutier est sympa et arrangeant.</p>
+<p>Le bateau a été sorti de l’eau au MACT sur le vieux port de Marseille.</p>
 
 <h2 id="remplacement">Remplacement</h2>
 
-<p>La première étape a été de défaire l’ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis on a défait le tourteau en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.</p>
+<p>La première étape a été de défaire l’ancien presse-étoupes en découpant la durite et en retirant les serre-flex. Puis le tourteau a été désaccouplé en retirant les vis et en utilisant un tournevis plat et un marteau pour ouvrir la mâchoire.</p>
 
 <p><img src="/assets/images/presse-etoupe/libre-optimized.jpg" alt="" /></p>
 
@@ -168,11 +210,13 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p><img src="/assets/images/presse-etoupe/silent-blocks-optimized.jpg" alt="" /></p>
 
-<p>Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me manque une photo du travail terminé, je la rajouterai rapidement.</p>
+<p>Puis le nouveau presse-étoupe a été fixé et le tourteau resserré.</p>
+
+<p><img src="/assets/images/presse-etoupe/fini-optimized.jpg" alt="" /></p>
 
 <h2 id="passage-du-nouveau-loch">Passage du nouveau loch</h2>
 
-<p>J’ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J’ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s’installer à l’intérieur de la coque mais la roulette du loch doit évidemment être au contact de l’eau. Le diamètre du tube précédent était moins important que le NASA, je l’ai donc remplacé. Le retrait de l’ancien n’était pas évident car le tube en plastique était renforcé avec du métal. J’ai refixé le tout au Sikaflex.</p>
+<p>J’ai profité de la sortie du bateau pour remplacer le tube qui traverse la coque et contient le loch-speedo. J’ai acheté un NASA Clipper Duet pour environ 200 euros qui fait à la fois sondeur, speedo et loch. Le sondeur peut s’installer à l’intérieur de la coque mais la roulette du loch doit évidemment être au contact de l’eau. Le diamètre du tube précédent était moins important que le nouveau, je l’ai donc remplacé. Le retrait de l’ancien n’était pas évident car le tube en plastique était renforcé avec du métal. J’ai refixé le tout au Sikaflex.</p>
 
 <p><img src="/assets/images/presse-etoupe/loch-optimized.jpg" alt="" /></p>
 
@@ -181,7 +225,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 <ul>
   <li>Passer par un mécanicien pro était un bon choix pour mon inexpérience et il a été patient et pédagogue, merci !</li>
   <li>Merci aux conseils des membres de Hisse-et-Oh pour <a href="https://www.hisse-et-oh.com/sailing/presse-etoupe-exotique-sur-dufour-1800#613e3d6b040dbf640658e89b">ma question</a></li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[De l’eau s’infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l’étoupe à cause de son état d’usure et du mécanisme un peu vieux et compliqué.]]></summary></entry><entry><title type="html">Renforcement du pont sous le pied de mât</title><link href="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html" rel="alternate" type="text/html" title="Renforcement du pont sous le pied de mât" /><published>2021-07-01T13:15:00+02:00</published><updated>2021-07-01T13:15:00+02:00</updated><id>http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat</id><content type="html" xml:base="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html"><![CDATA[<p>Le pont était enfoncé sous le pied de mât. Je l’avais repéré en achetant le bateau mais j’ai supposé que c’était acceptable. Les avis autour de moi m’ont rapidement fait comprendre que ça ne l’était pas et qu’il fallait reprendre tout ça !</p>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[De l’eau s’infiltrait en quantité trop importante par le presse-étoupes. Il était impossible de changer l’étoupe à cause de d’un mécanisme vieux et très usé.]]></summary></entry><entry><title type="html">Renforcement du pont sous le pied de mât</title><link href="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html" rel="alternate" type="text/html" title="Renforcement du pont sous le pied de mât" /><published>2021-07-01T13:15:00+02:00</published><updated>2021-07-01T13:15:00+02:00</updated><id>http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat</id><content type="html" xml:base="http://localhost:4000/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat.html"><![CDATA[<p>Le pont était enfoncé sous le pied de mât. Cela signalait un probable délaminage du pont qui pouvait s’avérer dangereux à cet endroit. Il a donc fallu restratifier cette partie.</p>
 
 <p><img src="/assets/images/mat/avant-1-optimized.jpg" alt="" />
 <img src="/assets/images/mat/avant-2-optimized.jpg" alt="" /></p>
@@ -190,7 +234,7 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p>Je n’ai malheureusement pas de vidéo du démâtage mais c’était assez impressionnant ! Après hésitation j’ai décidé de démâter sans grue et à flot, avec l’aide de plusieurs amis. Nous avons passé la drisse de génois dans le davier pour retenir le mât en avant avec un effet de poulie. À la poupe on a utilisé la drisse de grand-voile pour retenir le mât en arrière. Sur les côtés on a utilisé les haubans une fois décrochés.</p>
 
-<p>Ça remonte un peu, mais il me semble que dans l’ordre on a :</p>
+<p>Dans l’ordre on a :</p>
 
 <ol>
   <li>défait le pataras. Le mât tient très bien sans pataras sur ce type de gréement avec les barres de flèches qui reviennent sur l’arrière.</li>
@@ -199,15 +243,13 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
   <li>fait basculer le mat vers l’arrière</li>
 </ol>
 
-<p>Je n’étais pas sûr à 100% mais le pied de mât est bien prévu pour basculer en arrière, bonne surprise 😅</p>
+<p>Je n’étais pas sûr à 100% mais le pied de mât de ce Dufour 1800 est bien prévu pour basculer en arrière, bonne surprise !</p>
 
-<p>Et note pour le futur : une fois les haubans défaits, faire très attention au déplacement des personnes sur le bateau, le roulis devient très dangereux !</p>
-
-<p>Tout s’est bien passé mais c’était stressant.</p>
+<p>Et note pour le futur : <strong>une fois les haubans défaits, faire très attention au déplacement des personnes sur le bateau, le roulis devient très dangereux</strong>.</p>
 
 <h2 id="ouverture-du-pont">Ouverture du pont</h2>
 
-<p>Voici l’état du pont après démâtage, retrait du pied de mât en métal :</p>
+<p>Voici l’état du pont après démâtage et retrait du pied de mât en métal :</p>
 
 <p><img src="/assets/images/mat/demate-1-optimized.jpg" alt="" /></p>
 
@@ -221,14 +263,14 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p>Une fois ce bois enlevé on a pu voir le délaminage très net du balsa et du pont. On a vu aussi que le balsa était pourri par endroit.</p>
 
-<p>On a alors décidé d’ouvrir une demi-lune bien plus grande pour pouvoir reprendre le délaminage sur une surface plus importante.</p>
+<p>On a alors décidé d’ouvrir un demi-cercle bien plus grand pour pouvoir reprendre le délaminage sur une surface plus importante.</p>
 
 <p><img src="/assets/images/mat/ouverture-1-optimized.jpg" alt="" />
 <img src="/assets/images/mat/ouverture-2-optimized.jpg" alt="" /></p>
 
 <p>On voit ici bien les parties du balsa qui sont pourries : elles s’effritent et se décrochent à la main.</p>
 
-<p>On a poncé (ou meulé je ne sais plus) toute la partie abîmée du balsa pour préparer la surface.</p>
+<p>On a poncé toute la partie abîmée du balsa pour préparer la surface.</p>
 
 <p><img src="/assets/images/mat/poncage-optimized.jpg" alt="" /></p>
 
@@ -245,26 +287,26 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 <p><img src="/assets/images/mat/stratification-optimized.jpg" alt="" />
 <img src="/assets/images/mat/fin-stratification-optimized.jpg" alt="" /></p>
 
-<p>Je n’ai pas précisé qu’avant de mettre la pièce en bois, nous avons décidé d’y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l’inverse par des tire-fonds qui venaient s’enfoncer dans la pièce de bois. ça ne nous a pas paru très solide de reproduire ça donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n’ai malheureusement pas de photo du pied de mât.</p>
+<p>Avant de mettre la pièce en bois, nous avons décidé d’y poser des inserts et des tiges filetées vers le haut pour la fixation du pied de mât. Auparavant, cette fixation était faite à l’inverse par des tire-fonds qui venaient s’enfoncer dans la pièce de bois. Ça ne nous semblait pas très solide donc on a agrandi les trous des tire-fonds pour y passer les inserts. Je n’ai malheureusement pas de photo du pied de mât.</p>
 
 <h2 id="finition-du-pont">Finition du pont</h2>
 
-<p>Après la stratification on a mis des couche de mastic puis poncé. On a répété cette opération jusqu’à obtenir une surface satisfaisante.</p>
+<p>Après la stratification on a mis des couches de mastic puis poncé. On a répété cette opération jusqu’à obtenir une surface satisfaisante.</p>
 
 <p><img src="/assets/images/mat/mastic-apres-optimized.jpg" alt="" />
 <img src="/assets/images/mat/mastic-apres-poncage-optimized.jpg" alt="" /></p>
 
-<p>On voit ici que j’ai poncé le gelcoat plus largement que l’ouverture pour faire une reprise nette et récupérer les éclaboussures de résine.</p>
+<p>On voit ici que le gelcoat a été poncé plus largement que l’ouverture pour faire une reprise nette et récupérer les éclaboussures de résine.</p>
 
 <p>Enfin on a passé une ou deux couches de gelcoat :</p>
 
 <p><img src="/assets/images/mat/gelcoat-optimized.jpg" alt="" /></p>
 
-<p>Une fois bien sec j’ai reposé le pied de mât sur les tiges filetées, boulonné et meulé l’excédent de tige. Je n’avais pas du tout anticipé que les boulons risquaient de gêner par rapport au tire-fonds qui eux ne dépassaient pas 🙀 Heureusement j’ai eu de la chance et ça passait, juste.</p>
+<p>Une fois bien sec le pied de mât a été fixé sur les tiges filetées, boulonné et on a meulé l’excédent de tiges. Je n’avais pas du tout anticipé que les boulons risquaient de gêner par rapport au tire-fonds qui eux ne dépassaient pas 🙀 Heureusement j’ai eu de la chance et ça passait tout juste.</p>
 
 <h2 id="remâtage">Remâtage</h2>
 
-<p>J’ai profité d’avoir tombé le mât pour changer tout le dormant qui était vieux et dont les ridoirs n’avaient pas assez de jeu. Une des barres de flèche a aussi été resoudée sur l’extrémité côté du mât qui était mangée. La Voilerie Phocéenne a fait ce travail pour 750 euros. J’ai aussi changé la girouette, et le feu de tête.</p>
+<p>J’ai profité d’avoir démâté pour changer tout le dormant qui était vieux et dont les ridoirs n’étaient pas pratiques. Une des barres de flèche a aussi été resoudée sur l’extrémité côté du mât qui était mangée. La Voilerie Phocéenne a fait ce travail pour 750 euros. J’ai aussi changé la girouette, et le feu de tête.</p>
 
 <p>Pour le remâtage, j’ai encore mobilisé de nombreux amis (merci !). On a fait l’opération en sens inverse et tout s’est bien passé, même si c’était là encore très stressant ! La fixation de l’étai était particulièrement dure mais on a fini par y arriver.</p>
 
@@ -272,4 +314,4 @@ Enfin on a dessiné les empreintes à différentes profondeurs pour les 4 autres
 
 <p>J’étais soulagé une fois ce gros chantier terminé 🥳 Un voilier sans mât c’est triste à voir.</p>
 
-<p>On a croisé les doigts lors des premières sorties en mer, mais tout s’est très bien passé et rien n’a bougé une fois les haubans bien resserrés.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Le pont était enfoncé sous le pied de mât. Je l’avais repéré en achetant le bateau mais j’ai supposé que c’était acceptable. Les avis autour de moi m’ont rapidement fait comprendre que ça ne l’était pas et qu’il fallait reprendre tout ça !]]></summary></entry></feed>
+<p>On a croisé les doigts lors des premières sorties en mer, mais tout s’est très bien passé et rien n’a bougé une fois les haubans bien resserrés.</p>]]></content><author><name></name></author><summary type="html"><![CDATA[Le pont était enfoncé sous le pied de mât. Cela signalait un probable délaminage du pont qui pouvait s’avérer dangereux à cet endroit. Il a donc fallu restratifier cette partie.]]></summary></entry></feed>

@@ -35,7 +35,10 @@ Ensuite, le mécanicien a procédé à l'étape la plus compliquée : le recentr
 
 ![](/assets/images/presse-etoupe/silent-blocks-optimized.jpg)
 
-Puis le nouveau presse-étoupe a été fixé et le tourteau resserré. Il me manque une photo du travail terminé, je la rajouterai rapidement.
+Puis le nouveau presse-étoupe a été fixé et le tourteau resserré.
+
+![](/assets/images/presse-etoupe/fini-optimized.jpg)
+
 
 ## Passage du nouveau loch
 
