@@ -2,7 +2,7 @@
 layout: post
 title: Renforcement des cadènes de haubans
 date: 2022-09-04 14:49 +0200
-thumb_path: /assets/images/cadenes/cadenes-optimized.jpg
+thumb_path: /assets/images/cadenes/cadene-nue-optimized.jpg
 chantier_temps: 1 semaine
 chantier_cout: ~100€
 ---
