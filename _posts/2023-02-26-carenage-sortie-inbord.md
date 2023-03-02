@@ -2,8 +2,9 @@
 layout: post
 title: Carénage et sortie du moteur inbord
 date: 2023-02-26 14:49 +0200
-thumb_path: /assets/images/cadenes/carene-optimized.jpg
+thumb_path: /assets/images/carenage/coque-avant-optimized.jpg
 chantier_temps: 3 jours
+chantier_cout: ~400€
 ---
 
 On a sorti Chanclette une nouvelle fois au MACT sur le vieux port pour faire le premier carénage après 2 ans, et essayer de sortir le moteur inbord.
