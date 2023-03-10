@@ -76,5 +76,34 @@ On y est arrivés sans domages humains ni matériels et on a décidé de laisser
 
 ![Moteur sorti](/assets/images/carenage/moteur-sur-pont-optimized.jpg)
 
-Il ne reste plus qu’à le faire gruter !
+Le grutier a ensuite pu le gruter en le fixant par deux points et en le guidant avec des bouts dont un passé sur un winch.
+Après annonce sur Le Bon Coin, une personne est passée récupérer le moteur pour essayer de réparer le sien du même modèle.
 
+![Moteur posé à terre](/assets/images/carenage/moteur-port-optimized.jpg)
+
+Il restait une petite étape non anticipée : sortir l’arbre d’hélice.
+J’avais oublié qu’il faut déposer le safran pour sortir l’arbre par l’extérieur, même sans hélice.
+Et j’avais aussi oublié que pour déposer le safran il faut relever le bateau car la mèche est très longue.
+Le grutier a encore une fois sauvé la journée en relevant le bateau pour que je puisse sortir le safran et faire les dernières retouches du carénage.
+
+Pour déposer le safran j’ai maintenant l’habitude et je cale un madrier sur les balcons arrières avec une corde passant dans l’anneau en haut de la mèche pour le retenir.
+
+Une fois l’axe sorti j’ai pu placer le bouchon sur l’étambot avec des durites et des colliers de serrages.
+
+![Étambot rebouché](/assets/images/carenage/bouchon-etambot-optimized.jpg)
+
+Sur conseil d’une personne sur le port j’ai aussi bouché l’extérieur du tube avec une pinoche et du sikaflex.
+J’ai pu remettre à l’eau et repartir heureux et serein !
+
+La semaine suivante j’ai attaqué le nettoyage de la cale et sa mise au propre avec un coup de couche primaire epoxy.
+
+![Cale pendant le nettoyage](/assets/images/carenage/cale-avant-optimized.jpg)
+
+J’en ai aussi profité pour enfin retirer la couche de mousse anti-bruit sur la partie supérieure de la cale.
+Elle s’effritait depuis longtemps et ne servait à rien.
+
+![Cale après peinture](/assets/images/carenage/cale-repeinte-optimized.jpg)
+
+Je suis en train de construire deux petits supports en bois.
+Le premier accueillera la batterie à l’arrière de la cale (derrière la pièce en fer).
+Le deuxième permettra de placer l’annexe là où se trouvait le moteur sans qu’il touche le fond au cas où de l’eau viendrait à entrer.
