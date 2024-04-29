@@ -1,0 +1,36 @@
+[[redirects]]
+  from = "/"
+  to = "https://www.dipasquale.fr/chanclette/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "2023/02/26/carenage-sortie-inbord"
+  to = "https://www.dipasquale.fr/chanclette/articles/2023-02-26-carenage-sortie-inbord/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2022/09/04/renforcement-des-cad%C3%A8nes-de-haubans.html"
+  to = "https://www.dipasquale.fr/chanclette/articles/2022-09-04-renforcement-des-cad%C3%A8nes-de-haubans/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2022/03/27/reparation-du-safran"
+  to = "https://www.dipasquale.fr/chanclette/articles/2022-03-27-reparation-du-safran/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2021/12/07/remplacement-du-presse-etoupe"
+  to = "https://www.dipasquale.fr/chanclette/articles/2021-12-07-remplacement-du-presse-etoupe/"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/2021/07/01/renforcement-du-pont-sous-le-pied-de-mat"
+  to = "https://www.dipasquale.fr/chanclette/articles/2021-07-01-renforcement-du-pont-sous-le-pied-de-mat/"
+  status = 301
+  force = true
+
